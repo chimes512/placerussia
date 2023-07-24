@@ -1,0 +1,15 @@
+{
+"contact": "r/placerussia",
+"templates": [
+{
+"name": "russia",
+"sources": [
+"https://i.imgur.com/qRfzF52.png"
+],
+"x": 1132,
+"y": 2075
+}
+],
+"whitelist": [],
+"blacklist": []
+}
